@@ -7,5 +7,5 @@ While every attempt has been made to copy over the pages without modification, t
 
 The pages are in this repository under the Wiki tab:
 
-https://github.com/revault/rebol-wiki/wiki
+https://github.com/r3n/rebol-wiki/wiki
 
